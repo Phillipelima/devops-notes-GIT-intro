@@ -1,6 +1,6 @@
 Cheatsheet for GIT - NOV17
 
-GIT is an open source version control system responsible for managing GitHub related contributions done locally on your computer. This cheatsheet summarizes what I learned to do with it until now.
+GIT is an open source version control system designed to facilitate collaboration on development projects. This cheatsheet summarizes what I learned to do with it until now.
 
 Overview of Git characteristics:
 
